@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ASPxPivotGrid_MultipleCustomTotals/Default.aspx) (VB: [Default.aspx](./VB/ASPxPivotGrid_MultipleCustomTotals/Default.aspx))
+* [Default.aspx.cs](./CS/ASPxPivotGrid_MultipleCustomTotals/Default.aspx.cs) (VB: [Default.aspx](./VB/ASPxPivotGrid_MultipleCustomTotals/Default.aspx))
+<!-- default file list end -->
 # How to calculate multiple Custom Totals with SummaryType set to Custom
 
 
