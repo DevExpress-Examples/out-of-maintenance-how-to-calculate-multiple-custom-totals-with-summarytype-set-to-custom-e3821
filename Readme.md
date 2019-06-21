@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/ASPxPivotGrid_MultipleCustomTotals/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_MultipleCustomTotals/Default.aspx.vb))
 <!-- default file list end -->
 # How to calculate multiple Custom Totals with SummaryType set to Custom
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3821/)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to calculate and display multiple Custom Totals for a field.</p>
